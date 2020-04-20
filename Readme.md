@@ -16,6 +16,7 @@ Unipic displays astronomy picture of the provided date from https://api.nana.gov
 | Environment variable | Description            |
 |:---------------------|:-----------------------|
 | NASA_API_KEY         | Nasa api key           |
+
 (Note: `NASA_API_KEY` is included in `docker-compose.yaml` for ease of testing. `NASA_API_KEY` has to be in `.env` file which has not to be commited)
 
 ### Golang, Docker, Docker-compose
